@@ -11,11 +11,7 @@ Original file is located at
 ## Contributors to this project:
 
 <b>
-<li>Umesh Chandra Sakinala - 21BCE1782
-<li>Sujan Kumar Sollety - 21BCE5667
-<li>Harshith Simha Gurram - 21BCE5653
-<li>Pulipaka Phani Meghana - 21BCE1345
-<li>Pandithradhyula Soumya - 21BCE1424
+<li>Avanthika Alladurgam 
 </b>
 """
 
